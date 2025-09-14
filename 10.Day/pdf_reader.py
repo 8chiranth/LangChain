@@ -1,0 +1,1 @@
+print("""open google colab for this day's code""")
